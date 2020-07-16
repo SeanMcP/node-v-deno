@@ -1,0 +1,7 @@
+{
+    "name": "uuid",
+    "version": "1.0.0",
+    "dependencies": {
+        "uuid": "latest"
+    }
+}
